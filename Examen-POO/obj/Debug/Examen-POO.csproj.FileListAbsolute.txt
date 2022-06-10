@@ -1,0 +1,7 @@
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\bin\Debug\Examen-POO.exe.config
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\bin\Debug\Examen-POO.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\bin\Debug\Examen-POO.pdb
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\obj\Debug\Examen-POO.csproj.AssemblyReference.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\obj\Debug\Examen-POO.csproj.CoreCompileInputs.cache
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\obj\Debug\Examen-POO.exe
+C:\Users\edwin\OneDrive\Desktop\Semestre 2\P.O.O\Unidad 6 P.O.O\Examen-POO\Examen-POO\obj\Debug\Examen-POO.pdb

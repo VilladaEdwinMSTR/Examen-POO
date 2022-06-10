@@ -1,0 +1,18 @@
+Nombre del producto: Xbox
+Descripcion del producto: Xbox series X 1T
+Precio del producto: 8000
+Stock del producto: 25
+Nombre del producto: Monitor
+Descripcion del producto: Monitor 15 pulgadas 4k
+Precio del producto: 3500
+Stock del producto: 50
+Nombre del producto: Laptop
+Descripcion del producto: 1T 14 gb RAM
+Precio del producto: 15000
+Stock del producto: 15
+
+Nombre del producto: Celular
+Descripcion del producto: Iphone 12 64 GG
+Precio del producto: 20000
+Stock del producto: 20
+
